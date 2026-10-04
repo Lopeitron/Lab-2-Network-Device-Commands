@@ -1,0 +1,15 @@
+Device Summary for Aarohi_Lab
+-----------------------------------
+Model:      C8000V
+OS Version: 17.15.4c
+
+Interface Statuses:
+  - Unknown        : up / up
+  - Unknown        : up / up
+  - Unknown        : administratively down / down
+  - Unknown        : up / up
+  - Unknown        : up / up
+  - Unknown        : up / up
+  - Unknown        : up / up
+  - Unknown        : up / up
+  - Unknown        : up / up
