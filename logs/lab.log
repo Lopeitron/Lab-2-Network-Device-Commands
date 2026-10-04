@@ -1,0 +1,28 @@
+2026-10-04 19:39:55,544 - [LAB2-START]
+2026-10-04 19:39:55,545 - [STEP 2] Dev Container Started
+2026-10-04 19:40:23,018 - [CREDENTIALS_COLLECTED]
+2026-10-04 19:40:23,184 - Connected (version 2.0, client Cisco-1.25)
+2026-10-04 19:40:23,964 - Authentication (password) successful!
+2026-10-04 19:40:24,809 - [CONNECT_OK]
+2026-10-04 19:40:25,260 - [CMD_RUN:show version]
+2026-10-04 19:40:25,416 - [PARSE_OK:show version]
+2026-10-04 19:40:25,903 - [CMD_RUN:show ip interface brief]
+2026-10-04 19:40:25,905 - [PARSE_OK:show ip interface brief]
+2026-10-04 19:40:26,339 - [CMD_RUN:show inventory]
+2026-10-04 19:40:26,342 - [PARSE_OK:show inventory]
+2026-10-04 19:40:26,342 - [REPORT_SAVED]
+2026-10-04 19:40:26,414 - [LAB2-END]
+2026-10-04 19:41:22,853 - [LAB2-START]
+2026-10-04 19:41:22,853 - [STEP 2] Dev Container Started
+2026-10-04 19:42:06,390 - [CREDENTIALS_COLLECTED]
+2026-10-04 19:42:06,555 - Connected (version 2.0, client Cisco-1.25)
+2026-10-04 19:42:07,332 - Authentication (password) successful!
+2026-10-04 19:42:08,184 - [CONNECT_OK]
+2026-10-04 19:42:08,620 - [CMD_RUN:show version]
+2026-10-04 19:42:08,786 - [PARSE_OK:show version]
+2026-10-04 19:42:09,287 - [CMD_RUN:show ip interface brief]
+2026-10-04 19:42:09,289 - [PARSE_OK:show ip interface brief]
+2026-10-04 19:42:09,723 - [CMD_RUN:show inventory]
+2026-10-04 19:42:09,727 - [PARSE_OK:show inventory]
+2026-10-04 19:42:09,728 - [REPORT_SAVED]
+2026-10-04 19:42:09,799 - [LAB2-END]
